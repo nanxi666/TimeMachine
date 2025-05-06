@@ -1,9 +1,30 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36 Edg/137.0.0.0" version="26.2.15">
   <diagram name="第 1 页" id="RlPsShAkVt5nRoZMetJD">
-    <mxGraphModel>
+    <mxGraphModel dx="778" dy="472" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="JpcYnPtzATTZSyCfthqq-1" value="&lt;font face=&quot;Times New Roman&quot;&gt;BML&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;labelBackgroundColor=none;fontColor=#46495D;" vertex="1" parent="1">
+          <mxGeometry x="355" y="90" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JpcYnPtzATTZSyCfthqq-2" value="" style="endArrow=classic;html=1;rounded=0;labelBackgroundColor=none;fontColor=default;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="380" y="110" as="sourcePoint" />
+            <mxPoint x="380" y="140" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JpcYnPtzATTZSyCfthqq-3" value="&lt;font face=&quot;Times New Roman&quot;&gt;E1&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="342.5" y="140" width="75" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="JpcYnPtzATTZSyCfthqq-4" value="" style="endArrow=none;html=1;rounded=0;fontColor=#46495D;exitX=0.5;exitY=1;exitDx=0;exitDy=0;curved=0;startFill=0;strokeWidth=1;jumpSize=6;" edge="1" parent="1" source="JpcYnPtzATTZSyCfthqq-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="380" y="270" as="sourcePoint" />
+            <mxPoint x="380" y="180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JpcYnPtzATTZSyCfthqq-5" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#788AA3;fontColor=#46495D;fillColor=#B2C9AB;" vertex="1" parent="1">
+          <mxGeometry x="370" y="180" width="20" height="20" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
