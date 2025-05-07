@@ -4,6 +4,15 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="IY-vPQJXDDbbcd6xCSo9-1" value="Embeding 1" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="210" y="310" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="IY-vPQJXDDbbcd6xCSo9-2" value="Embeding 2" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="210" y="410" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="IY-vPQJXDDbbcd6xCSo9-3" value="Input" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;spacing=3;textShadow=1;" vertex="1" parent="1">
+          <mxGeometry x="215" y="260" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
