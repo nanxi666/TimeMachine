@@ -124,11 +124,8 @@
         <mxCell id="IY-vPQJXDDbbcd6xCSo9-34" value="Output" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;spacing=3;textShadow=1;" vertex="1" parent="1">
           <mxGeometry x="680" y="390" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="IY-vPQJXDDbbcd6xCSo9-36" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.uTurnArrow;dy=7.5;arrowHead=50;dx2=20;" vertex="1" parent="1">
-          <mxGeometry x="80" y="370" width="40" height="100" as="geometry" />
-        </mxCell>
-        <mxCell id="IY-vPQJXDDbbcd6xCSo9-37" value="Mamba" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="110" y="420" width="60" height="30" as="geometry" />
+        <mxCell id="IY-vPQJXDDbbcd6xCSo9-36" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.uTurnArrow;dy=3.5;arrowHead=35;dx2=25.25;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="310" y="260" width="20" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
