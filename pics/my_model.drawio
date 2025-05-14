@@ -925,10 +925,15 @@
         <mxCell id="jsRAOxUF1d3w7f-xaSZK-80" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="499" y="920" width="158" height="55" as="geometry" />
         </mxCell>
-        <mxCell id="jsRAOxUF1d3w7f-xaSZK-41" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="jsRAOxUF1d3w7f-xaSZK-80">
+        <mxCell id="jsRAOxUF1d3w7f-xaSZK-41" value="" style="endArrow=classic;html=1;rounded=0;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;spacingBottom=0;" edge="1" parent="jsRAOxUF1d3w7f-xaSZK-80">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="112" y="55" as="sourcePoint" />
             <mxPoint y="55" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jsRAOxUF1d3w7f-xaSZK-84" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="jsRAOxUF1d3w7f-xaSZK-41">
+          <mxGeometry x="-0.2232" relative="1" as="geometry">
+            <mxPoint x="1" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="jsRAOxUF1d3w7f-xaSZK-79" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="jsRAOxUF1d3w7f-xaSZK-80">
@@ -936,6 +941,9 @@
             <mxPoint x="112" y="55" as="sourcePoint" />
             <mxPoint x="131" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="jsRAOxUF1d3w7f-xaSZK-85" value="Chanel" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="541" y="974" width="47" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
