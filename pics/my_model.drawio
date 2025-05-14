@@ -878,7 +878,7 @@
           <mxGeometry x="534" y="975" width="50" height="20" as="geometry" />
         </mxCell>
         <mxCell id="jsRAOxUF1d3w7f-xaSZK-86" value="Time" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="619" y="945" width="38" height="20" as="geometry" />
+          <mxGeometry x="619" y="941" width="38" height="20" as="geometry" />
         </mxCell>
         <mxCell id="jsRAOxUF1d3w7f-xaSZK-138" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;endArrow=none;startFill=0;strokeWidth=2;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
@@ -960,6 +960,12 @@
             <mxPoint x="701" y="676" as="targetPoint" />
             <mxPoint x="701" y="713" as="sourcePoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="jsRAOxUF1d3w7f-xaSZK-150" value="E1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="560" y="692" width="38" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="jsRAOxUF1d3w7f-xaSZK-151" value="E2" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="704" y="692" width="38" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
