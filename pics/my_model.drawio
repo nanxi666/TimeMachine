@@ -1624,6 +1624,9 @@
         <mxCell id="BQZWZ6BKGkBOQ7Wp5d9V-107" value="(c)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;spacing=3;textShadow=1;fontFamily=Times New Roman;fontStyle=1" vertex="1" parent="BQZWZ6BKGkBOQ7Wp5d9V-101">
           <mxGeometry x="196.00000000000003" y="166" width="40" height="10" as="geometry" />
         </mxCell>
+        <mxCell id="BQZWZ6BKGkBOQ7Wp5d9V-108" value="Embedding Layer" style="text;whiteSpace=wrap;fontFamily=Times New Roman;fontStyle=1" vertex="1" parent="BQZWZ6BKGkBOQ7Wp5d9V-101">
+          <mxGeometry x="351" y="194" width="99" height="21" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
