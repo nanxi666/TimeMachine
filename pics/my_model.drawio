@@ -1055,6 +1055,14 @@
         <mxCell id="TjjRI3EttQVNQa-iYRX0-62" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d0cee2;strokeColor=#56517e;" vertex="1" parent="1">
           <mxGeometry x="-40" y="652" width="230" height="138" as="geometry" />
         </mxCell>
+        <mxCell id="TjjRI3EttQVNQa-iYRX0-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;startFill=0;" edge="1" parent="1" source="TjjRI3EttQVNQa-iYRX0-63">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-70" y="757.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TjjRI3EttQVNQa-iYRX0-63" value="Linear Projection" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="1">
+          <mxGeometry x="20" y="740" width="84" height="35" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
