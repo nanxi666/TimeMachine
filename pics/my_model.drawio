@@ -1242,7 +1242,7 @@
         <mxCell id="BQZWZ6BKGkBOQ7Wp5d9V-2" value="Embedding Layer" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontFamily=Times New Roman;fontStyle=1" vertex="1" parent="BQZWZ6BKGkBOQ7Wp5d9V-101">
           <mxGeometry x="340" y="349" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="BQZWZ6BKGkBOQ7Wp5d9V-3" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;dashed=1;fontFamily=Times New Roman;fontStyle=1" vertex="1" parent="BQZWZ6BKGkBOQ7Wp5d9V-101">
+        <mxCell id="BQZWZ6BKGkBOQ7Wp5d9V-3" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontFamily=Times New Roman;fontStyle=1" vertex="1" parent="BQZWZ6BKGkBOQ7Wp5d9V-101">
           <mxGeometry x="280" y="189" width="240" height="120" as="geometry" />
         </mxCell>
         <mxCell id="BQZWZ6BKGkBOQ7Wp5d9V-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeWidth=2;fontFamily=Times New Roman;fontStyle=1" edge="1" parent="BQZWZ6BKGkBOQ7Wp5d9V-101" source="BQZWZ6BKGkBOQ7Wp5d9V-6" target="BQZWZ6BKGkBOQ7Wp5d9V-7">
