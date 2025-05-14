@@ -784,11 +784,11 @@
         <mxCell id="jsRAOxUF1d3w7f-xaSZK-18" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;dashed=1;endArrow=none;startFill=0;" edge="1" parent="1" source="jsRAOxUF1d3w7f-xaSZK-1" target="jsRAOxUF1d3w7f-xaSZK-17">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="jsRAOxUF1d3w7f-xaSZK-25" value="Embeding 1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="jsRAOxUF1d3w7f-xaSZK-25" value="Embeding 1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="505" y="830" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="jsRAOxUF1d3w7f-xaSZK-29" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="535" y="900" width="118" height="50" as="geometry" />
+          <mxGeometry x="539" y="904" width="118" height="50" as="geometry" />
         </mxCell>
         <mxCell id="jsRAOxUF1d3w7f-xaSZK-27" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.layered_rect;dx=16;outlineConnect=0;whiteSpace=wrap;fillColor=#d5e8d4;strokeColor=#82b366;direction=south;" vertex="1" parent="jsRAOxUF1d3w7f-xaSZK-29">
           <mxGeometry x="68" width="50" height="50" as="geometry" />
@@ -798,6 +798,9 @@
         </mxCell>
         <mxCell id="jsRAOxUF1d3w7f-xaSZK-20" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.layered_rect;dx=16;outlineConnect=0;whiteSpace=wrap;fillColor=#fad9d5;strokeColor=#ae4132;direction=south;" vertex="1" parent="jsRAOxUF1d3w7f-xaSZK-29">
           <mxGeometry width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="jsRAOxUF1d3w7f-xaSZK-30" value="Embeding 2" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="657" y="830" width="90" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
