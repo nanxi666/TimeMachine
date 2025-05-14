@@ -732,11 +732,14 @@
         <mxCell id="nhj5j6KX-Ij2DpeiZVeU-2" value="My Block" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontFamily=Times New Roman;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="250" y="440" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="jsRAOxUF1d3w7f-xaSZK-19" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;endArrow=none;startFill=0;dashed=1;" edge="1" parent="1" source="jsRAOxUF1d3w7f-xaSZK-1" target="jsRAOxUF1d3w7f-xaSZK-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="jsRAOxUF1d3w7f-xaSZK-1" value="Embedding Layer" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="290" y="950" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="jsRAOxUF1d3w7f-xaSZK-4" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="230" y="790" width="250" height="120" as="geometry" />
+          <mxGeometry x="230" y="790" width="240" height="120" as="geometry" />
         </mxCell>
         <mxCell id="jsRAOxUF1d3w7f-xaSZK-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="jsRAOxUF1d3w7f-xaSZK-5" target="jsRAOxUF1d3w7f-xaSZK-7">
           <mxGeometry relative="1" as="geometry" />
@@ -774,6 +777,12 @@
               <mxPoint x="414" y="930" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="jsRAOxUF1d3w7f-xaSZK-17" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=3;" vertex="1" parent="1">
+          <mxGeometry x="480" y="730" width="290" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="jsRAOxUF1d3w7f-xaSZK-18" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;dashed=1;endArrow=none;startFill=0;" edge="1" parent="1" source="jsRAOxUF1d3w7f-xaSZK-1" target="jsRAOxUF1d3w7f-xaSZK-17">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
