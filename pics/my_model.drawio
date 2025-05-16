@@ -1227,7 +1227,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="tcmpS4Fu6TV3wxeMTAnQ" name="L-Mamba">
-    <mxGraphModel dx="1605" dy="476" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1197" dy="227" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1312,7 +1312,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="BQZWZ6BKGkBOQ7Wp5d9V-99" value="Output" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;spacing=3;textShadow=1;fontFamily=Times New Roman;fontStyle=1;container=0;" parent="lv7BfXYBJk9B-sHrgzfw-221" vertex="1">
-          <mxGeometry x="315.2804878048781" y="6" width="40.487804878048784" height="10" as="geometry" />
+          <mxGeometry x="315.2804878048781" y="3" width="40.487804878048784" height="10" as="geometry" />
         </mxCell>
         <mxCell id="BQZWZ6BKGkBOQ7Wp5d9V-100" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeWidth=2;fontFamily=Times New Roman;fontStyle=1" parent="lv7BfXYBJk9B-sHrgzfw-221" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -1614,7 +1614,10 @@
           <mxGeometry x="762.9302439024391" y="154" width="18.583042973286876" height="18.583042973286876" as="geometry" />
         </mxCell>
         <mxCell id="lv7BfXYBJk9B-sHrgzfw-220" value="X" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;spacing=3;textShadow=1;fontFamily=Times New Roman;fontStyle=1;container=0;" vertex="1" parent="lv7BfXYBJk9B-sHrgzfw-221">
-          <mxGeometry x="379.05" y="395" width="10.95" height="10" as="geometry" />
+          <mxGeometry x="379.05" y="396" width="10.95" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="lv7BfXYBJk9B-sHrgzfw-325" value="Y" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;spacing=3;textShadow=1;fontFamily=Times New Roman;fontStyle=1;container=0;" vertex="1" parent="lv7BfXYBJk9B-sHrgzfw-221">
+          <mxGeometry x="380" y="4" width="10" height="10" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
