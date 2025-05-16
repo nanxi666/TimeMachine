@@ -1227,7 +1227,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="tcmpS4Fu6TV3wxeMTAnQ" name="L-Mamba">
-    <mxGraphModel dx="1742" dy="560" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1086" dy="159" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1612,6 +1612,9 @@
         </mxCell>
         <mxCell id="BQZWZ6BKGkBOQ7Wp5d9V-60" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#d5e8d4;strokeColor=#82b366;fontFamily=Times New Roman;fontStyle=1;container=0;" parent="lv7BfXYBJk9B-sHrgzfw-218" vertex="1">
           <mxGeometry x="762.9302439024391" y="154" width="18.583042973286876" height="18.583042973286876" as="geometry" />
+        </mxCell>
+        <mxCell id="lv7BfXYBJk9B-sHrgzfw-220" value="X" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;spacing=3;textShadow=1;fontFamily=Times New Roman;fontStyle=1;container=0;" vertex="1" parent="lv7BfXYBJk9B-sHrgzfw-218">
+          <mxGeometry x="379.05" y="395" width="10.95" height="10" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
