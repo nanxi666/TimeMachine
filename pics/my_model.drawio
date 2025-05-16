@@ -1625,6 +1625,12 @@
         <mxCell id="BQZWZ6BKGkBOQ7Wp5d9V-108" value="Encoding Layer" style="text;whiteSpace=wrap;fontFamily=Times New Roman;fontStyle=1" parent="BQZWZ6BKGkBOQ7Wp5d9V-101" vertex="1">
           <mxGeometry x="360.5" y="279" width="99" height="21" as="geometry" />
         </mxCell>
+        <mxCell id="lv7BfXYBJk9B-sHrgzfw-211" value="X1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontStyle=1" vertex="1" parent="BQZWZ6BKGkBOQ7Wp5d9V-101">
+          <mxGeometry x="340" y="194.5" width="38" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="lv7BfXYBJk9B-sHrgzfw-212" value="X2" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="375" y="795.5" width="38" height="20" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
