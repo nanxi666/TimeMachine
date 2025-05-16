@@ -1226,7 +1226,7 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="tcmpS4Fu6TV3wxeMTAnQ" name="L-MAmba">
+  <diagram id="tcmpS4Fu6TV3wxeMTAnQ" name="L-Mamba">
     <mxGraphModel dx="1605" dy="476" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
@@ -1622,7 +1622,7 @@
         <mxCell id="BQZWZ6BKGkBOQ7Wp5d9V-107" value="(c)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;spacing=3;textShadow=1;fontFamily=Times New Roman;fontStyle=1" parent="BQZWZ6BKGkBOQ7Wp5d9V-101" vertex="1">
           <mxGeometry x="196.00000000000003" y="166" width="40" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="BQZWZ6BKGkBOQ7Wp5d9V-108" value="Embedding Layer" style="text;whiteSpace=wrap;fontFamily=Times New Roman;fontStyle=1" parent="BQZWZ6BKGkBOQ7Wp5d9V-101" vertex="1">
+        <mxCell id="BQZWZ6BKGkBOQ7Wp5d9V-108" value="Encoding Layer" style="text;whiteSpace=wrap;fontFamily=Times New Roman;fontStyle=1" parent="BQZWZ6BKGkBOQ7Wp5d9V-101" vertex="1">
           <mxGeometry x="351" y="194" width="99" height="21" as="geometry" />
         </mxCell>
       </root>
