@@ -1521,9 +1521,6 @@
         <mxCell id="BQZWZ6BKGkBOQ7Wp5d9V-60" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#d5e8d4;strokeColor=#82b366;fontFamily=Times New Roman;fontStyle=1;container=0;" parent="ZV8cvF8a7Xof43fS0CDt-2" vertex="1">
           <mxGeometry x="242.92682926829275" y="79" width="18.583042973286876" height="18.583042973286876" as="geometry" />
         </mxCell>
-        <mxCell id="ZV8cvF8a7Xof43fS0CDt-6" value="&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; font-weight: 700;&quot;&gt;Embedding Layer&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="ZV8cvF8a7Xof43fS0CDt-2">
-          <mxGeometry x="188.99658536585366" y="285" width="60" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="ZV8cvF8a7Xof43fS0CDt-3" value="" style="group" vertex="1" connectable="0" parent="lv7BfXYBJk9B-sHrgzfw-221">
           <mxGeometry x="-10.002195121951209" y="242" width="253.04878048780483" height="180" as="geometry" />
         </mxCell>
