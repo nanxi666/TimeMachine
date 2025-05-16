@@ -1623,7 +1623,7 @@
           <mxGeometry x="196.00000000000003" y="166" width="40" height="10" as="geometry" />
         </mxCell>
         <mxCell id="BQZWZ6BKGkBOQ7Wp5d9V-108" value="Encoding Layer" style="text;whiteSpace=wrap;fontFamily=Times New Roman;fontStyle=1" parent="BQZWZ6BKGkBOQ7Wp5d9V-101" vertex="1">
-          <mxGeometry x="351" y="194" width="99" height="21" as="geometry" />
+          <mxGeometry x="360.5" y="279" width="99" height="21" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
